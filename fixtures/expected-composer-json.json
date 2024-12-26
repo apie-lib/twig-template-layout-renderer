@@ -15,7 +15,7 @@
         }
     },
     "require": {
-        "php": ">=8.1",
+        "php": ">=8.3",
         "apie/core": "1.2.3",
         "apie/html-builders": "1.2.3",
         "apie/twig-template-layout-renderer": "1.2.3",
@@ -24,7 +24,7 @@
     "require-dev": {
         "apie/fixtures": "1.2.3",
         "illuminate/support": "*",
-        "phpunit/phpunit": "^9.6.19"
+        "phpunit/phpunit": "^11.5.2"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
